@@ -1,4 +1,32 @@
 @charset "UTF-8";
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 body{
-background-color: khaki;
+background-image: linear-gradient(to right, hsla(43, 100%, 63%, 0.5), hsla(43, 100%, 63%, 0.8));
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 255, 0.6);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 2px 2px #6F3D99;
+}
+
+h2 {
+    color: #7914CC;
+}
+
+h3 {
+    color: #7914CC;
 }
