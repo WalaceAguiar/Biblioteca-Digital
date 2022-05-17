@@ -23,11 +23,7 @@ h1 {
     text-shadow: 2px 2px 2px rgba(112, 61, 153, 0.5);
 }
 
-h2 {
+h2, h3 {
     color: blue;
     text-shadow: 2px 2px 2px rgba(112, 61, 153, 0.5);
-}
-
-h3 {
-    color: blue;
 }
